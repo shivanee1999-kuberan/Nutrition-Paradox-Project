@@ -31,3 +31,6 @@ This project analyzes global obesity and malnutrition data using Python and SQL.
 
 ## Files
 - Nutrition.py → Main project code
+## Power BI Dashboard
+
+![Dashboard](images/dashboard.png)
